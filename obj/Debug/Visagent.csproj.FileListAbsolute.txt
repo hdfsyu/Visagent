@@ -1,0 +1,10 @@
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.csprojAssemblyReference.cache
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.Properties.Resources.resources
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.csproj.GenerateResource.cache
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.csproj.CoreCompileInputs.cache
+E:\AntiVirus\Visagent\Visagent\bin\Debug\Visagent.exe.config
+E:\AntiVirus\Visagent\Visagent\bin\Debug\Visagent.exe
+E:\AntiVirus\Visagent\Visagent\bin\Debug\Visagent.pdb
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.Form1.resources
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.exe
+E:\AntiVirus\Visagent\Visagent\obj\Debug\Visagent.pdb
